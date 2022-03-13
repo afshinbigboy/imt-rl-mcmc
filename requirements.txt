@@ -1,0 +1,15 @@
+# pylint
+
+numpy
+scipy
+matplotlib
+networkx
+torch==1.9.0
+
+graphviz
+pydot
+pyyaml
+
+
+imageio
+notebook
